@@ -62,6 +62,7 @@ public class UserController {
     public String logout(HttpServletRequest request) {
         //将登陆的用户名和购物车数量从session中remove
         request.getSession().removeAttribute("user");
+        System.out.println("用户: "+df.format(new Date())+"退出");
         return "user";
     }
 }
