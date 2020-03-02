@@ -587,10 +587,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="150" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1581153959820" />
-    <state x="287" y="36" width="1042" height="778" key="CommitChangelistDialog2" timestamp="1583140629599">
+    <state x="287" y="36" width="1042" height="778" key="CommitChangelistDialog2" timestamp="1583140735722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="287" y="36" width="1042" height="778" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583140629599" />
+    <state x="287" y="36" width="1042" height="778" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583140735722" />
+    <state x="100" y="100" width="1336" height="624" key="DiffContextDialog" timestamp="1583140951023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583140951023" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1583139626490">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
