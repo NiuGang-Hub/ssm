@@ -1,8 +1,9 @@
 package com.sample.ssm.model;
 
 /**
- * @author yuyufeng
- * @date 2018/8/24.
+ * Created by Intellij IDEA.
+ * User:  Administrator
+ * Date:  2020/3/2
  */
 public class UserInfo {
     private Integer userId;

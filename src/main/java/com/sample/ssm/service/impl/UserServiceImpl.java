@@ -8,8 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author yuyufeng
- * @date 2018/8/24.
+ * Created by Intellij IDEA.
+ * User:  Administrator
+ * Date:  2020/3/2
  */
 @SuppressWarnings("ALL")
 @Service

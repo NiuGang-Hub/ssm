@@ -1,7 +1,6 @@
 package com.sample.ssm.mapper;
 
 import com.sample.ssm.model.UserInfo;
-import org.apache.ibatis.annotations.Param;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,8 +8,9 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 /**
- * @author yuyufeng
- * @date 2018/8/24.
+ * Created by Intellij IDEA.
+ * User:  Administrator
+ * Date:  2020/3/2
  */
 @SuppressWarnings("ALL")
 @RunWith(SpringJUnit4ClassRunner.class)

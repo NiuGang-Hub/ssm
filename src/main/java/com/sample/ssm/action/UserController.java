@@ -14,8 +14,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @author yuyufeng
- * @date 2018/8/24.
+ * Created by Intellij IDEA.
+ * User:  Administrator
+ * Date:  2020/3/2
  */
 @Controller
 public class UserController {

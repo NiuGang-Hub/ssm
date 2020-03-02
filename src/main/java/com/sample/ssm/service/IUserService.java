@@ -4,8 +4,9 @@ import com.sample.ssm.model.UserInfo;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author yuyufeng
- * @date 2018/8/24.
+ * Created by Intellij IDEA.
+ * User:  Administrator
+ * Date:  2020/3/2
  */
 public interface IUserService {
     /**
